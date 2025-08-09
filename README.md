@@ -5,6 +5,7 @@ This project brings it to your browser with a colorful, interactive twist — po
 
 
 🚀 Overview - 
+
 The Simon Says Game is a memory-based challenge where you need to follow a sequence of button flashes.
 With each level, the sequence gets longer, testing your memory and reflexes.
 One wrong click… and it’s Game Over!
@@ -12,13 +13,15 @@ One wrong click… and it’s Game Over!
 
 
 🛠 Tech Stack - 
+
 HTML5 – Game structure & layout
 CSS3 – Styling, colors, and animations
 JavaScript (Vanilla) – Game logic, sequence handling, and interactivity
 
 
 
-🎯 How to Play - 
+🎯 How to Play 
+
 -Start the game → Press any key on your keyboard.
 -Watch carefully → A button will flash to indicate the sequence.
 -Repeat the sequence by clicking the buttons in the same order.
@@ -32,4 +35,11 @@ JavaScript (Vanilla) – Game logic, sequence handling, and interactivity
 📈 Unlimited levels – play until you mess up!
 🔄 Instant restart with a single key press
 💡 Flash animations to guide your moves
+
+# Simon Says Game
+
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-blue?style=for-the-badge)](https://sachinkumar999.github.io/simon-says-game/)
+
+Play the Simon Says memory challenge—repeat increasingly complex color sequences for as long as you can!
+
 
